@@ -42,7 +42,7 @@ Os primeiros 6 dígitos são para identificar a bandeira do cartão e o tipo (d�
 ### Validação do cartão de crédito
 
 Exemplo da validação de um cartão: 4 9 8 4   2 3 5 0   6 2 5 1   4 4 8 8
-A soma dos dígitos em posição impares por 2 e no caso Se o número tiver dois dígitos some o primeiro com o segundo, exemplo 12 seria 1 + 2 = 3
+A soma dos dígitos em posição impares por 2 e no caso, se o número tiver dois dígitos some o primeiro com o segundo, exemplo 12 seria 1 + 2 = 3, multiplique os números em posição ímpar por 1.
 
 https://contaembanco.com.br/servicos/quais-e-quantos-sao-os-numeros-dos-cartoes-de-credito/
 https://www.youtube.com/watch?v=72AEnGWo2r8
