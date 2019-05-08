@@ -38,9 +38,8 @@ module.exports = {
             "never"
         ],
         'camelcase': 1,
-        'id-lenght': [
-            "error",
-            2
+        'id-length': [
+            "error"
         ],
         'keyword-spacing': [
             'error',
